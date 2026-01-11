@@ -1,5 +1,5 @@
-SUMBEB RESOLUSI
-- saya mau belajar html
+SUMBEB RESOLUSi
 - saya mau belajar php
 - saya mau belajar php (laravel)
 - saya mau membuat website portofolia
+- saya mau belajar n8n
